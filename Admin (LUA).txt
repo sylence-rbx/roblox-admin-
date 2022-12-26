@@ -1,5 +1,5 @@
-local owners = {"XboxLive1239"} -- Are able to set admins who can ban/etc... using :pa name
-local admins = {"frank2108"} -- Sets admins who can use ban/kick/admin or shutdown
+local owners = {"Epicstunderking"} -- Are able to set admins who can ban/etc... using :pa name
+local admins = {"ErikHauszerstoerer"} -- Sets admins who can use ban/kick/admin or shutdown
 local tempadmins = {} -- Sets admins who can't use ban/kick/admin or shutdown
 local banland = {} -- Permanently Bans people
 local prefix = ":" -- If you wanna change how your commands start ':'kill noob
